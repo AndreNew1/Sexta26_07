@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\bin\Debug\netcoreapp2.2\Sexta26_07.deps.json
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\bin\Debug\netcoreapp2.2\Sexta26_07.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\bin\Debug\netcoreapp2.2\Sexta26_07.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\bin\Debug\netcoreapp2.2\Sexta26_07.dll
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\bin\Debug\netcoreapp2.2\Sexta26_07.pdb
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.dll
+C:\Users\Treinamento 2\source\repos\Sexta26_07\Sexta26_07\obj\Debug\netcoreapp2.2\Sexta26_07.pdb
